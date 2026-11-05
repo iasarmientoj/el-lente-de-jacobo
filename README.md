@@ -1,6 +1,6 @@
-# El lente de Jacobo
+# El lente de Jacob
 
-Sitio público de la app **El lente de Jacobo** (Android): las fotografías de Jacobo como fondo de
+Sitio público de la app **El lente de Jacob** (Android): las fotografías de Jacob como fondo de
 pantalla, una nueva cada día.
 
 Publicado con GitHub Pages en https://iasarmientoj.github.io/el-lente-de-jacobo/
